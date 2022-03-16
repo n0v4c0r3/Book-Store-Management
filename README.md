@@ -5,9 +5,18 @@
 
 
 # Screenshots
+# ADMIN
+![alt text](/screenshot/admin/dashboard.png)
+![alt text](/screenshot/admin/addbooks.png)
+![alt text](/screenshot/admin/allorders.png)
+![alt text](/screenshot/admin/orderdetails.png)
 
-![alt text](/screenshot/)
-![alt text](/screenshot/)
+# FRontEnd
+![alt text](/screenshot/site/home.png)
+![alt text](/screenshot/site/product.png)
+![alt text](/screenshot/site/checkout.png)
+![alt text](/screenshot/site/login.png)
+![alt text](/screenshot/site/account.png)
 
 
 # Download this project : 
